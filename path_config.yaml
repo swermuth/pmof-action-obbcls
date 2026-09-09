@@ -1,0 +1,12 @@
+current_workstation: workstation2
+
+workstations:
+  workstation1: #youAIcluster
+    pmof_code_dir: /home/swermuth/pmof-code
+    data_base_dir: /home/swermuth/PMOF
+    data_actioncls_dir: /home/swermuth/PMOF_actioncls/
+
+  workstation2: #hypatia
+    pmof_code_dir: /home/stella/computer_vision/pmof-code
+    data_base_dir: /home/stella/computer_vision/PMOF
+    data_actioncls_dir: /home/stella/computer_vision/PMOF_actioncls/
