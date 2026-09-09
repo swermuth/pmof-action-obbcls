@@ -2,3 +2,9 @@ runs/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+*.pt
+path_config.yaml
+*.png
+*.pdf
+*.jpeg
+*.jpg
