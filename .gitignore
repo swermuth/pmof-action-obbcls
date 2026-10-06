@@ -9,3 +9,6 @@ path_config.yaml
 *.jpeg
 *.jpg
 *.svg
+*.mp4
+videos/
+plots/
